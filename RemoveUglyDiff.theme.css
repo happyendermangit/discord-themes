@@ -1,0 +1,21 @@
+/**
+* Using vencord? add this url 
+* https://gist.githubusercontent.com/happyendermangit/3c9c31f540edd767a9a6bc7a3fdd7aea/raw/9e74f936787ed417d6ea0fc6ef3a856628d88e1b/RemoveUglyDiff.theme.css"
+* Using betterdiscord? Download this gist and 
+* add it to %appdata%/betterdiscord/themes folder
+**/
+
+.theme-dark .hljs-addition{
+    color: #687807, !important;
+}
+.theme-dark hljs-deletion{
+    color:#B32821 !important
+}
+
+.theme-light .hljs-addition{
+    color: #687807, !important;
+}
+.theme-light hljs-deletion{
+    color:#B32821 !important
+}
+
